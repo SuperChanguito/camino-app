@@ -1,0 +1,2122 @@
+[
+  {
+    "osmId": "osm-node-764235709",
+    "stageId": "padron-santiago",
+    "name": "Asador Gonzaba",
+    "kind": "restaurant",
+    "lat": 42.8753113,
+    "lon": -8.5494541
+  },
+  {
+    "osmId": "osm-node-954188612",
+    "stageId": "oporrino-redondela",
+    "name": "La Cueva",
+    "kind": "restaurant",
+    "lat": 42.1616327,
+    "lon": -8.620913
+  },
+  {
+    "osmId": "osm-node-954188685",
+    "stageId": "oporrino-redondela",
+    "name": "Celtiña",
+    "kind": "restaurant",
+    "lat": 42.1589446,
+    "lon": -8.6209424
+  },
+  {
+    "osmId": "osm-node-954188705",
+    "stageId": "oporrino-redondela",
+    "name": "Nómadas",
+    "kind": "restaurant",
+    "lat": 42.1621293,
+    "lon": -8.6209128
+  },
+  {
+    "osmId": "osm-node-981685971",
+    "stageId": "oporrino-redondela",
+    "name": "El Patio",
+    "kind": "restaurant",
+    "lat": 42.1633654,
+    "lon": -8.6210478
+  },
+  {
+    "osmId": "osm-node-1077534931",
+    "stageId": "oporrino-redondela",
+    "name": "Maracaibo",
+    "kind": "restaurant",
+    "lat": 42.1584957,
+    "lon": -8.6209067
+  },
+  {
+    "osmId": "osm-node-1080557839",
+    "stageId": "oporrino-redondela",
+    "name": "O Xantar de Pepa",
+    "kind": "restaurant",
+    "lat": 42.160901,
+    "lon": -8.6200198
+  },
+  {
+    "osmId": "osm-node-1157377400",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Ferro",
+    "kind": "restaurant",
+    "lat": 42.8685913,
+    "lon": -8.5627072
+  },
+  {
+    "osmId": "osm-node-1157377531",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Mera",
+    "kind": "restaurant",
+    "lat": 42.8700654,
+    "lon": -8.5635809
+  },
+  {
+    "osmId": "osm-node-1158342003",
+    "stageId": "padron-santiago",
+    "name": "Retrincos",
+    "kind": "restaurant",
+    "lat": 42.8701544,
+    "lon": -8.5632896
+  },
+  {
+    "osmId": "osm-node-1229153385",
+    "stageId": "oporrino-redondela",
+    "name": "Casa di Mili",
+    "kind": "restaurant",
+    "lat": 42.161028,
+    "lon": -8.6212131
+  },
+  {
+    "osmId": "osm-node-1274379447",
+    "stageId": "padron-santiago",
+    "name": "Suki Ramen",
+    "kind": "restaurant",
+    "lat": 42.8742914,
+    "lon": -8.5509253
+  },
+  {
+    "osmId": "osm-node-1381703920",
+    "stageId": "pontevedra-caldas",
+    "name": "O Cruceiro",
+    "kind": "restaurant",
+    "lat": 42.4334751,
+    "lon": -8.6459922
+  },
+  {
+    "osmId": "osm-node-1471385234",
+    "stageId": "padron-santiago",
+    "name": "Restaurante O Xantar",
+    "kind": "restaurant",
+    "lat": 42.8697678,
+    "lon": -8.5588163
+  },
+  {
+    "osmId": "osm-node-1627068583",
+    "stageId": "padron-santiago",
+    "name": "Ali Baba Turkish Kebab",
+    "kind": "restaurant",
+    "lat": 42.8740968,
+    "lon": -8.5520663
+  },
+  {
+    "osmId": "osm-node-1631361434",
+    "stageId": "pontevedra-caldas",
+    "name": "La Tortillita",
+    "kind": "restaurant",
+    "lat": 42.4295621,
+    "lon": -8.6459519
+  },
+  {
+    "osmId": "osm-node-1645685067",
+    "stageId": "padron-santiago",
+    "name": "La Tagliatella",
+    "kind": "restaurant",
+    "lat": 42.8736796,
+    "lon": -8.5504433
+  },
+  {
+    "osmId": "osm-node-1692051845",
+    "stageId": "redondela-pontevedra",
+    "name": "Marisqueria Arcade",
+    "kind": "restaurant",
+    "lat": 42.3400829,
+    "lon": -8.6089379
+  },
+  {
+    "osmId": "osm-node-1692189269",
+    "stageId": "redondela-pontevedra",
+    "name": "Bonsai",
+    "kind": "restaurant",
+    "lat": 42.3399638,
+    "lon": -8.6088867
+  },
+  {
+    "osmId": "osm-node-1700153110",
+    "stageId": "oporrino-redondela",
+    "name": "Val do Louriña",
+    "kind": "restaurant",
+    "lat": 42.1569427,
+    "lon": -8.6201201
+  },
+  {
+    "osmId": "osm-node-1765306675",
+    "stageId": "padron-santiago",
+    "name": "Góndola 2",
+    "kind": "restaurant",
+    "lat": 42.8738697,
+    "lon": -8.5492609
+  },
+  {
+    "osmId": "osm-node-1809733426",
+    "stageId": "oporrino-redondela",
+    "name": "Mondariz",
+    "kind": "restaurant",
+    "lat": 42.16258,
+    "lon": -8.61979
+  },
+  {
+    "osmId": "osm-node-1869744913",
+    "stageId": "pontevedra-caldas",
+    "name": "El Pitillo",
+    "kind": "restaurant",
+    "lat": 42.4332013,
+    "lon": -8.6468819
+  },
+  {
+    "osmId": "osm-node-1883178148",
+    "stageId": "redondela-pontevedra",
+    "name": "Ostrería ROMASA",
+    "kind": "restaurant",
+    "lat": 42.3437842,
+    "lon": -8.6115404
+  },
+  {
+    "osmId": "osm-node-1888593150",
+    "stageId": "padron-santiago",
+    "name": "Fraîche",
+    "kind": "restaurant",
+    "lat": 42.8706799,
+    "lon": -8.563563
+  },
+  {
+    "osmId": "osm-node-1888626406",
+    "stageId": "padron-santiago",
+    "name": "La Carpanta SQC",
+    "kind": "restaurant",
+    "lat": 42.8702615,
+    "lon": -8.5628973
+  },
+  {
+    "osmId": "osm-node-1944073909",
+    "stageId": "pontevedra-caldas",
+    "name": "Mare e Monti",
+    "kind": "restaurant",
+    "lat": 42.4272148,
+    "lon": -8.64036
+  },
+  {
+    "osmId": "osm-node-1956541295",
+    "stageId": "pontevedra-caldas",
+    "name": "Mirador de Alba",
+    "kind": "restaurant",
+    "lat": 42.4654672,
+    "lon": -8.6423041
+  },
+  {
+    "osmId": "osm-node-2031038673",
+    "stageId": "pontevedra-caldas",
+    "name": "Casa Román",
+    "kind": "restaurant",
+    "lat": 42.4276724,
+    "lon": -8.6432017
+  },
+  {
+    "osmId": "osm-node-2036616136",
+    "stageId": "pontevedra-caldas",
+    "name": "Bun Burger",
+    "kind": "restaurant",
+    "lat": 42.4291904,
+    "lon": -8.6428968
+  },
+  {
+    "osmId": "osm-node-2049715555",
+    "stageId": "padron-santiago",
+    "name": "Cierto Blanco",
+    "kind": "restaurant",
+    "lat": 42.8256159,
+    "lon": -8.6061163
+  },
+  {
+    "osmId": "osm-node-2298548434",
+    "stageId": "padron-santiago",
+    "name": "Restaurante La Central",
+    "kind": "restaurant",
+    "lat": 42.8495542,
+    "lon": -8.5828274
+  },
+  {
+    "osmId": "osm-node-2298555033",
+    "stageId": "padron-santiago",
+    "name": "Samarkanda",
+    "kind": "restaurant",
+    "lat": 42.8482094,
+    "lon": -8.5811642
+  },
+  {
+    "osmId": "osm-node-2298630078",
+    "stageId": "padron-santiago",
+    "name": "El Rincón Siciliano",
+    "kind": "restaurant",
+    "lat": 42.8467249,
+    "lon": -8.5770333
+  },
+  {
+    "osmId": "osm-node-2572810165",
+    "stageId": "oporrino-redondela",
+    "name": "A Francachela",
+    "kind": "restaurant",
+    "lat": 42.1626851,
+    "lon": -8.6212604
+  },
+  {
+    "osmId": "osm-node-2589241718",
+    "stageId": "oporrino-redondela",
+    "name": "Restaurante Puente",
+    "kind": "restaurant",
+    "lat": 42.1533679,
+    "lon": -8.6205355
+  },
+  {
+    "osmId": "osm-node-2675457221",
+    "stageId": "tui-oporrino",
+    "name": "Que che apetece",
+    "kind": "restaurant",
+    "lat": 42.1490747,
+    "lon": -8.6223884
+  },
+  {
+    "osmId": "osm-node-2681956033",
+    "stageId": "padron-santiago",
+    "name": "Comedor Universitario Rodríguez Cadarso",
+    "kind": "restaurant",
+    "lat": 42.8775237,
+    "lon": -8.5544992
+  },
+  {
+    "osmId": "osm-node-2681956145",
+    "stageId": "padron-santiago",
+    "name": "Comedor Universitario Fonseca",
+    "kind": "restaurant",
+    "lat": 42.8769568,
+    "lon": -8.5549406
+  },
+  {
+    "osmId": "osm-node-2741611543",
+    "stageId": "tui-oporrino",
+    "name": "El Molino",
+    "kind": "restaurant",
+    "lat": 42.0489757,
+    "lon": -8.6464978
+  },
+  {
+    "osmId": "osm-node-2883886805",
+    "stageId": "pontevedra-caldas",
+    "name": "Mar de fóra",
+    "kind": "restaurant",
+    "lat": 42.43319,
+    "lon": -8.64734
+  },
+  {
+    "osmId": "osm-node-2883889602",
+    "stageId": "pontevedra-caldas",
+    "name": "Jaqueyvi",
+    "kind": "restaurant",
+    "lat": 42.4324855,
+    "lon": -8.6467783
+  },
+  {
+    "osmId": "osm-node-2883890703",
+    "stageId": "padron-santiago",
+    "name": "A Carballesa",
+    "kind": "restaurant",
+    "lat": 42.8791787,
+    "lon": -8.5469664
+  },
+  {
+    "osmId": "osm-node-2883892201",
+    "stageId": "pontevedra-caldas",
+    "name": "El Cafetín",
+    "kind": "restaurant",
+    "lat": 42.4312453,
+    "lon": -8.6481343
+  },
+  {
+    "osmId": "osm-node-2883892801",
+    "stageId": "pontevedra-caldas",
+    "name": "Mesón Gerardo",
+    "kind": "restaurant",
+    "lat": 42.4391431,
+    "lon": -8.6426766
+  },
+  {
+    "osmId": "osm-node-3062858681",
+    "stageId": "padron-santiago",
+    "name": "Pulpería Rial",
+    "kind": "restaurant",
+    "lat": 42.7375644,
+    "lon": -8.6611453
+  },
+  {
+    "osmId": "osm-node-3080618171",
+    "stageId": "padron-santiago",
+    "name": "A Lareira",
+    "kind": "restaurant",
+    "lat": 42.7377993,
+    "lon": -8.6613027
+  },
+  {
+    "osmId": "osm-node-3450554794",
+    "stageId": "padron-santiago",
+    "name": "Comedor Universitario de Bioloxía e Matemáticas",
+    "kind": "restaurant",
+    "lat": 42.8740436,
+    "lon": -8.5582122
+  },
+  {
+    "osmId": "osm-node-3689094027",
+    "stageId": "pontevedra-caldas",
+    "name": "Recorcho",
+    "kind": "restaurant",
+    "lat": 42.4324333,
+    "lon": -8.6468196
+  },
+  {
+    "osmId": "osm-node-3689115263",
+    "stageId": "pontevedra-caldas",
+    "name": "Taberna Zentola",
+    "kind": "restaurant",
+    "lat": 42.4326546,
+    "lon": -8.6466335
+  },
+  {
+    "osmId": "osm-node-3689115265",
+    "stageId": "pontevedra-caldas",
+    "name": "La Cámara",
+    "kind": "restaurant",
+    "lat": 42.4326696,
+    "lon": -8.6452358
+  },
+  {
+    "osmId": "osm-node-3689115268",
+    "stageId": "pontevedra-caldas",
+    "name": "El Puchero",
+    "kind": "restaurant",
+    "lat": 42.4314102,
+    "lon": -8.6448624
+  },
+  {
+    "osmId": "osm-node-3689115272",
+    "stageId": "pontevedra-caldas",
+    "name": "O Turancho de Bora",
+    "kind": "restaurant",
+    "lat": 42.4325826,
+    "lon": -8.6441277
+  },
+  {
+    "osmId": "osm-node-3689115273",
+    "stageId": "pontevedra-caldas",
+    "name": "Bar Os Maristas",
+    "kind": "restaurant",
+    "lat": 42.432654,
+    "lon": -8.6440828
+  },
+  {
+    "osmId": "osm-node-3689138879",
+    "stageId": "pontevedra-caldas",
+    "name": "La Ultramar",
+    "kind": "restaurant",
+    "lat": 42.4332678,
+    "lon": -8.642172
+  },
+  {
+    "osmId": "osm-node-3689138881",
+    "stageId": "pontevedra-caldas",
+    "name": "Padal da Santiña",
+    "kind": "restaurant",
+    "lat": 42.4332391,
+    "lon": -8.6473935
+  },
+  {
+    "osmId": "osm-node-3689138882",
+    "stageId": "pontevedra-caldas",
+    "name": "Pulperia As Campás",
+    "kind": "restaurant",
+    "lat": 42.4322064,
+    "lon": -8.6463684
+  },
+  {
+    "osmId": "osm-node-3689138883",
+    "stageId": "pontevedra-caldas",
+    "name": "Casa Fidel O Pulpeiro",
+    "kind": "restaurant",
+    "lat": 42.4337624,
+    "lon": -8.6457529
+  },
+  {
+    "osmId": "osm-node-3726023669",
+    "stageId": "pontevedra-caldas",
+    "name": "Micazo Ramen",
+    "kind": "restaurant",
+    "lat": 42.4318993,
+    "lon": -8.645268
+  },
+  {
+    "osmId": "osm-node-3735291511",
+    "stageId": "padron-santiago",
+    "name": "Comedor Universitario Solpor",
+    "kind": "restaurant",
+    "lat": 42.8730334,
+    "lon": -8.5602313
+  },
+  {
+    "osmId": "osm-node-3780089057",
+    "stageId": "oporrino-redondela",
+    "name": "O Carreteiro",
+    "kind": "restaurant",
+    "lat": 42.1529236,
+    "lon": -8.6205612
+  },
+  {
+    "osmId": "osm-node-3790533002",
+    "stageId": "padron-santiago",
+    "name": "Mesón Gonzalo",
+    "kind": "restaurant",
+    "lat": 42.7610566,
+    "lon": -8.6515372
+  },
+  {
+    "osmId": "osm-node-3790533004",
+    "stageId": "padron-santiago",
+    "name": "Fogar de Breogán",
+    "kind": "restaurant",
+    "lat": 42.757852,
+    "lon": -8.6517378
+  },
+  {
+    "osmId": "osm-node-3790533005",
+    "stageId": "padron-santiago",
+    "name": "Restaurante La Esquina",
+    "kind": "restaurant",
+    "lat": 42.7611355,
+    "lon": -8.6515663
+  },
+  {
+    "osmId": "osm-node-3790922903",
+    "stageId": "oporrino-redondela",
+    "name": "A Casiña da Tía Albina",
+    "kind": "restaurant",
+    "lat": 42.1724758,
+    "lon": -8.6175787
+  },
+  {
+    "osmId": "osm-node-3793130341",
+    "stageId": "padron-santiago",
+    "name": "Artesana Gastrobar",
+    "kind": "restaurant",
+    "lat": 42.8711305,
+    "lon": -8.5528419
+  },
+  {
+    "osmId": "osm-node-3881199559",
+    "stageId": "padron-santiago",
+    "name": "Kichi Ramen",
+    "kind": "restaurant",
+    "lat": 42.8729379,
+    "lon": -8.5480458
+  },
+  {
+    "osmId": "osm-node-3881199560",
+    "stageId": "padron-santiago",
+    "name": "Magic casa de comidas",
+    "kind": "restaurant",
+    "lat": 42.8727818,
+    "lon": -8.5479772
+  },
+  {
+    "osmId": "osm-node-3941512903",
+    "stageId": "padron-santiago",
+    "name": "deCarmen",
+    "kind": "restaurant",
+    "lat": 42.8651021,
+    "lon": -8.5599344
+  },
+  {
+    "osmId": "osm-node-4038285333",
+    "stageId": "redondela-pontevedra",
+    "name": "Glotón",
+    "kind": "restaurant",
+    "lat": 42.4264218,
+    "lon": -8.638176
+  },
+  {
+    "osmId": "osm-node-4069072394",
+    "stageId": "tui-oporrino",
+    "name": "O vello cabalo furado",
+    "kind": "restaurant",
+    "lat": 42.0467915,
+    "lon": -8.6446574
+  },
+  {
+    "osmId": "osm-node-4074254689",
+    "stageId": "tui-oporrino",
+    "name": "Jaqueyvi",
+    "kind": "restaurant",
+    "lat": 42.0465879,
+    "lon": -8.6445278
+  },
+  {
+    "osmId": "osm-node-4187017857",
+    "stageId": "padron-santiago",
+    "name": "Menos Smash",
+    "kind": "restaurant",
+    "lat": 42.8723806,
+    "lon": -8.5516328
+  },
+  {
+    "osmId": "osm-node-4196833089",
+    "stageId": "padron-santiago",
+    "name": "Mister Burguer",
+    "kind": "restaurant",
+    "lat": 42.8727361,
+    "lon": -8.5513006
+  },
+  {
+    "osmId": "osm-node-4220202892",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Airiños Aires",
+    "kind": "restaurant",
+    "lat": 42.8782182,
+    "lon": -8.5458828
+  },
+  {
+    "osmId": "osm-node-4225706406",
+    "stageId": "padron-santiago",
+    "name": "Casa Elisa",
+    "kind": "restaurant",
+    "lat": 42.8780092,
+    "lon": -8.545444
+  },
+  {
+    "osmId": "osm-node-4225706407",
+    "stageId": "padron-santiago",
+    "name": "El Puerto",
+    "kind": "restaurant",
+    "lat": 42.8776774,
+    "lon": -8.5456194
+  },
+  {
+    "osmId": "osm-node-4225706408",
+    "stageId": "padron-santiago",
+    "name": "El Pasaje",
+    "kind": "restaurant",
+    "lat": 42.8775559,
+    "lon": -8.5456886
+  },
+  {
+    "osmId": "osm-node-4225706410",
+    "stageId": "padron-santiago",
+    "name": "Arca da Vella",
+    "kind": "restaurant",
+    "lat": 42.8783797,
+    "lon": -8.5475625
+  },
+  {
+    "osmId": "osm-node-4234787281",
+    "stageId": "padron-santiago",
+    "name": "Carolo",
+    "kind": "restaurant",
+    "lat": 42.872489,
+    "lon": -8.5518339
+  },
+  {
+    "osmId": "osm-node-4396064923",
+    "stageId": "padron-santiago",
+    "name": "Royal Tandoori",
+    "kind": "restaurant",
+    "lat": 42.873029,
+    "lon": -8.5470925
+  },
+  {
+    "osmId": "osm-node-4430466693",
+    "stageId": "padron-santiago",
+    "name": "Terra Nosa",
+    "kind": "restaurant",
+    "lat": 42.8751053,
+    "lon": -8.5498452
+  },
+  {
+    "osmId": "osm-node-4545116261",
+    "stageId": "padron-santiago",
+    "name": "El Rincón Siciliano",
+    "kind": "restaurant",
+    "lat": 42.8736637,
+    "lon": -8.5486846
+  },
+  {
+    "osmId": "osm-node-4680928092",
+    "stageId": "padron-santiago",
+    "name": "Mesón O 42",
+    "kind": "restaurant",
+    "lat": 42.8778836,
+    "lon": -8.5454934
+  },
+  {
+    "osmId": "osm-node-4730438623",
+    "stageId": "oporrino-redondela",
+    "name": "Don Gusto",
+    "kind": "restaurant",
+    "lat": 42.1642353,
+    "lon": -8.6203132
+  },
+  {
+    "osmId": "osm-node-4769513278",
+    "stageId": "padron-santiago",
+    "name": "Alabarda",
+    "kind": "restaurant",
+    "lat": 42.8653925,
+    "lon": -8.5665314
+  },
+  {
+    "osmId": "osm-node-4788841321",
+    "stageId": "padron-santiago",
+    "name": "Marie Miner",
+    "kind": "restaurant",
+    "lat": 42.8777312,
+    "lon": -8.5458429
+  },
+  {
+    "osmId": "osm-node-4849503078",
+    "stageId": "pontevedra-caldas",
+    "name": "Eirado da Leña",
+    "kind": "restaurant",
+    "lat": 42.4325693,
+    "lon": -8.6434053
+  },
+  {
+    "osmId": "osm-node-4854201690",
+    "stageId": "pontevedra-caldas",
+    "name": "Bagos",
+    "kind": "restaurant",
+    "lat": 42.4312354,
+    "lon": -8.6453199
+  },
+  {
+    "osmId": "osm-node-4902869227",
+    "stageId": "padron-santiago",
+    "name": "Koa",
+    "kind": "restaurant",
+    "lat": 42.8720014,
+    "lon": -8.5501828
+  },
+  {
+    "osmId": "osm-node-4953452621",
+    "stageId": "padron-santiago",
+    "name": "Nómade",
+    "kind": "restaurant",
+    "lat": 42.8777464,
+    "lon": -8.5455694
+  },
+  {
+    "osmId": "osm-node-5042041018",
+    "stageId": "tui-oporrino",
+    "name": "Taperia Alboio",
+    "kind": "restaurant",
+    "lat": 42.046263,
+    "lon": -8.6451706
+  },
+  {
+    "osmId": "osm-node-5051229122",
+    "stageId": "padron-santiago",
+    "name": "O Xugo",
+    "kind": "restaurant",
+    "lat": 42.8713627,
+    "lon": -8.5564911
+  },
+  {
+    "osmId": "osm-node-5056455024",
+    "stageId": "padron-santiago",
+    "name": "Restaurante San Martín (y Hostal)",
+    "kind": "restaurant",
+    "lat": 42.8726232,
+    "lon": -8.5543072
+  },
+  {
+    "osmId": "osm-node-5056482421",
+    "stageId": "pontevedra-caldas",
+    "name": "La Navarra",
+    "kind": "wine shop",
+    "lat": 42.4332069,
+    "lon": -8.6457929
+  },
+  {
+    "osmId": "osm-node-5142916163",
+    "stageId": "redondela-pontevedra",
+    "name": "Acuña",
+    "kind": "restaurant",
+    "lat": 42.3422192,
+    "lon": -8.6090334
+  },
+  {
+    "osmId": "osm-node-5268344221",
+    "stageId": "caldas-padron",
+    "name": "Truckstop Cafe restaurant O Castro",
+    "kind": "restaurant",
+    "lat": 42.6603221,
+    "lon": -8.6371824
+  },
+  {
+    "osmId": "osm-node-5270620256",
+    "stageId": "oporrino-redondela",
+    "name": "Pontenova",
+    "kind": "restaurant",
+    "lat": 42.1527555,
+    "lon": -8.6206573
+  },
+  {
+    "osmId": "osm-node-5375541170",
+    "stageId": "pontevedra-caldas",
+    "name": "Dolce Vita",
+    "kind": "restaurant",
+    "lat": 42.4312505,
+    "lon": -8.6446276
+  },
+  {
+    "osmId": "osm-node-5375542246",
+    "stageId": "pontevedra-caldas",
+    "name": "La Pepita Burguer Bar",
+    "kind": "restaurant",
+    "lat": 42.4308948,
+    "lon": -8.642444
+  },
+  {
+    "osmId": "osm-node-5375542251",
+    "stageId": "pontevedra-caldas",
+    "name": "Tio Gilito Burger&Bar",
+    "kind": "restaurant",
+    "lat": 42.4324387,
+    "lon": -8.6478086
+  },
+  {
+    "osmId": "osm-node-5375564567",
+    "stageId": "redondela-pontevedra",
+    "name": "Peregrinus",
+    "kind": "restaurant",
+    "lat": 42.4269283,
+    "lon": -8.6376712
+  },
+  {
+    "osmId": "osm-node-5464281192",
+    "stageId": "padron-santiago",
+    "name": "El Sie7e",
+    "kind": "restaurant",
+    "lat": 42.8749679,
+    "lon": -8.5474888
+  },
+  {
+    "osmId": "osm-node-5483143941",
+    "stageId": "pontevedra-caldas",
+    "name": "Rúas",
+    "kind": "restaurant",
+    "lat": 42.4328334,
+    "lon": -8.6436034
+  },
+  {
+    "osmId": "osm-node-5483143942",
+    "stageId": "pontevedra-caldas",
+    "name": "Taberna Pintxo Vino",
+    "kind": "restaurant",
+    "lat": 42.4329416,
+    "lon": -8.6437203
+  },
+  {
+    "osmId": "osm-node-5488351108",
+    "stageId": "padron-santiago",
+    "name": "La Fugazzeta",
+    "kind": "restaurant",
+    "lat": 42.8746587,
+    "lon": -8.5507953
+  },
+  {
+    "osmId": "osm-node-5599176015",
+    "stageId": "padron-santiago",
+    "name": "Codex",
+    "kind": "restaurant",
+    "lat": 42.8773282,
+    "lon": -8.5456343
+  },
+  {
+    "osmId": "osm-node-5600720732",
+    "stageId": "padron-santiago",
+    "name": "El Patio",
+    "kind": "restaurant",
+    "lat": 42.8781684,
+    "lon": -8.5452724
+  },
+  {
+    "osmId": "osm-node-5600720735",
+    "stageId": "padron-santiago",
+    "name": "Voltarei",
+    "kind": "restaurant",
+    "lat": 42.878183,
+    "lon": -8.5453817
+  },
+  {
+    "osmId": "osm-node-5665560023",
+    "stageId": "padron-santiago",
+    "name": "Numaru",
+    "kind": "restaurant",
+    "lat": 42.8727566,
+    "lon": -8.5554424
+  },
+  {
+    "osmId": "osm-node-5719116721",
+    "stageId": "padron-santiago",
+    "name": "Mesón El Bombero",
+    "kind": "restaurant",
+    "lat": 42.8776831,
+    "lon": -8.5453928
+  },
+  {
+    "osmId": "osm-node-5760405509",
+    "stageId": "oporrino-redondela",
+    "name": "Timarsane",
+    "kind": "restaurant",
+    "lat": 42.1609903,
+    "lon": -8.6288059
+  },
+  {
+    "osmId": "osm-node-5775635874",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Marte",
+    "kind": "restaurant",
+    "lat": 42.8781617,
+    "lon": -8.5458981
+  },
+  {
+    "osmId": "osm-node-5875905110",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Santiaguiño",
+    "kind": "restaurant",
+    "lat": 42.738245,
+    "lon": -8.661026
+  },
+  {
+    "osmId": "osm-node-5931086386",
+    "stageId": "redondela-pontevedra",
+    "name": "78 Gastrobar",
+    "kind": "restaurant",
+    "lat": 42.2813557,
+    "lon": -8.6090783
+  },
+  {
+    "osmId": "osm-node-5976416286",
+    "stageId": "pontevedra-caldas",
+    "name": "As Greas",
+    "kind": "restaurant",
+    "lat": 42.4325246,
+    "lon": -8.6433226
+  },
+  {
+    "osmId": "osm-node-5976416290",
+    "stageId": "pontevedra-caldas",
+    "name": "A Casa da Leña",
+    "kind": "restaurant",
+    "lat": 42.4326875,
+    "lon": -8.6435165
+  },
+  {
+    "osmId": "osm-node-5976416985",
+    "stageId": "pontevedra-caldas",
+    "name": "Loaira",
+    "kind": "restaurant",
+    "lat": 42.4327326,
+    "lon": -8.6431941
+  },
+  {
+    "osmId": "osm-node-6052549102",
+    "stageId": "padron-santiago",
+    "name": "Chef Rivera",
+    "kind": "restaurant",
+    "lat": 42.7367359,
+    "lon": -8.658915
+  },
+  {
+    "osmId": "osm-node-6140864991",
+    "stageId": "tui-oporrino",
+    "name": "O Novo Cabalo Furado",
+    "kind": "restaurant",
+    "lat": 42.0464742,
+    "lon": -8.6445847
+  },
+  {
+    "osmId": "osm-node-6183806866",
+    "stageId": "tui-oporrino",
+    "name": "Arrayal 39",
+    "kind": "restaurant",
+    "lat": 42.0553711,
+    "lon": -8.6369906
+  },
+  {
+    "osmId": "osm-node-6386182513",
+    "stageId": "redondela-pontevedra",
+    "name": "Restaurante Pachani Pizzería",
+    "kind": "restaurant",
+    "lat": 42.3284474,
+    "lon": -8.6053776
+  },
+  {
+    "osmId": "osm-node-6436548169",
+    "stageId": "caldas-padron",
+    "name": "La Burger",
+    "kind": "restaurant",
+    "lat": 42.6040595,
+    "lon": -8.6416214
+  },
+  {
+    "osmId": "osm-node-6657385219",
+    "stageId": "padron-santiago",
+    "name": "Fogar de Galicia, Fogar do Santiso",
+    "kind": "restaurant",
+    "lat": 42.8780281,
+    "lon": -8.5454541
+  },
+  {
+    "osmId": "osm-node-6657409984",
+    "stageId": "padron-santiago",
+    "name": "La Jefatura",
+    "kind": "restaurant",
+    "lat": 42.8778772,
+    "lon": -8.5461764
+  },
+  {
+    "osmId": "osm-node-6658178239",
+    "stageId": "padron-santiago",
+    "name": "Singulario",
+    "kind": "restaurant",
+    "lat": 42.8720993,
+    "lon": -8.5491375
+  },
+  {
+    "osmId": "osm-node-6675008816",
+    "stageId": "padron-santiago",
+    "name": "A Taberna do Finikito",
+    "kind": "restaurant",
+    "lat": 42.870388,
+    "lon": -8.5626026
+  },
+  {
+    "osmId": "osm-node-6688269763",
+    "stageId": "redondela-pontevedra",
+    "name": "A Muxica",
+    "kind": "restaurant",
+    "lat": 42.3420454,
+    "lon": -8.6104416
+  },
+  {
+    "osmId": "osm-node-6707499788",
+    "stageId": "padron-santiago",
+    "name": "Galeón Toural",
+    "kind": "restaurant",
+    "lat": 42.877448,
+    "lon": -8.54457
+  },
+  {
+    "osmId": "osm-node-6712188485",
+    "stageId": "padron-santiago",
+    "name": "O Boteco",
+    "kind": "restaurant",
+    "lat": 42.8782258,
+    "lon": -8.5452369
+  },
+  {
+    "osmId": "osm-node-6796589573",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Scala",
+    "kind": "restaurant",
+    "lat": 42.7574353,
+    "lon": -8.6517906
+  },
+  {
+    "osmId": "osm-node-6801917687",
+    "stageId": "padron-santiago",
+    "name": "TeleKebab",
+    "kind": "restaurant",
+    "lat": 42.8742008,
+    "lon": -8.5519313
+  },
+  {
+    "osmId": "osm-node-7011149585",
+    "stageId": "padron-santiago",
+    "name": "Mac Burger",
+    "kind": "restaurant",
+    "lat": 42.8714574,
+    "lon": -8.5501739
+  },
+  {
+    "osmId": "osm-node-7034715285",
+    "stageId": "padron-santiago",
+    "name": "A Táboa de Picar",
+    "kind": "restaurant",
+    "lat": 42.879611,
+    "lon": -8.549114
+  },
+  {
+    "osmId": "osm-node-7042041885",
+    "stageId": "pontevedra-caldas",
+    "name": "Almiranta",
+    "kind": "restaurant",
+    "lat": 42.4335684,
+    "lon": -8.6459104
+  },
+  {
+    "osmId": "osm-node-7231369953",
+    "stageId": "padron-santiago",
+    "name": "Casa Regi",
+    "kind": "restaurant",
+    "lat": 42.8728973,
+    "lon": -8.5506275
+  },
+  {
+    "osmId": "osm-node-7826671438",
+    "stageId": "padron-santiago",
+    "name": "H20",
+    "kind": "restaurant",
+    "lat": 42.737745,
+    "lon": -8.661392
+  },
+  {
+    "osmId": "osm-node-7857720273",
+    "stageId": "padron-santiago",
+    "name": "La Jefatura de Franco",
+    "kind": "restaurant",
+    "lat": 42.8775102,
+    "lon": -8.5457327
+  },
+  {
+    "osmId": "osm-node-7857756895",
+    "stageId": "padron-santiago",
+    "name": "Goiko Grill",
+    "kind": "restaurant",
+    "lat": 42.8746307,
+    "lon": -8.54908
+  },
+  {
+    "osmId": "osm-node-7960369178",
+    "stageId": "pontevedra-caldas",
+    "name": "La Bella Napoli 1970",
+    "kind": "restaurant",
+    "lat": 42.4280873,
+    "lon": -8.6399327
+  },
+  {
+    "osmId": "osm-node-7962589179",
+    "stageId": "padron-santiago",
+    "name": "Mesón O Milladoiro",
+    "kind": "restaurant",
+    "lat": 42.8426425,
+    "lon": -8.5787138
+  },
+  {
+    "osmId": "osm-node-8516056508",
+    "stageId": "padron-santiago",
+    "name": "Restaurante El Puente",
+    "kind": "restaurant",
+    "lat": 42.8598491,
+    "lon": -8.5712808
+  },
+  {
+    "osmId": "osm-node-8570776589",
+    "stageId": "padron-santiago",
+    "name": "Cotolay",
+    "kind": "restaurant",
+    "lat": 42.8791275,
+    "lon": -8.5471713
+  },
+  {
+    "osmId": "osm-node-8892667965",
+    "stageId": "padron-santiago",
+    "name": "Galeón",
+    "kind": "restaurant",
+    "lat": 42.873478,
+    "lon": -8.5472849
+  },
+  {
+    "osmId": "osm-node-8892667978",
+    "stageId": "padron-santiago",
+    "name": "Grosso Napoletano",
+    "kind": "restaurant",
+    "lat": 42.874586,
+    "lon": -8.5482751
+  },
+  {
+    "osmId": "osm-node-8892670720",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Green",
+    "kind": "restaurant",
+    "lat": 42.8759367,
+    "lon": -8.5457683
+  },
+  {
+    "osmId": "osm-node-8892670754",
+    "stageId": "padron-santiago",
+    "name": "Indómito",
+    "kind": "restaurant",
+    "lat": 42.8740889,
+    "lon": -8.5457212
+  },
+  {
+    "osmId": "osm-node-8900671750",
+    "stageId": "tui-oporrino",
+    "name": "Cafetería Santa Columba",
+    "kind": "restaurant",
+    "lat": 42.0480475,
+    "lon": -8.6451962
+  },
+  {
+    "osmId": "osm-node-8927603217",
+    "stageId": "padron-santiago",
+    "name": "A Milagrosa",
+    "kind": "restaurant",
+    "lat": 42.801841,
+    "lon": -8.6380078
+  },
+  {
+    "osmId": "osm-node-9099125715",
+    "stageId": "pontevedra-caldas",
+    "name": "La Estafeta Taperia",
+    "kind": "restaurant",
+    "lat": 42.4340437,
+    "lon": -8.6450228
+  },
+  {
+    "osmId": "osm-node-9146728817",
+    "stageId": "padron-santiago",
+    "name": "O Aplendre",
+    "kind": "restaurant",
+    "lat": 42.7382393,
+    "lon": -8.6603324
+  },
+  {
+    "osmId": "osm-node-9762436617",
+    "stageId": "caldas-padron",
+    "name": "Roquiño",
+    "kind": "restaurant",
+    "lat": 42.6051977,
+    "lon": -8.6432496
+  },
+  {
+    "osmId": "osm-node-9767098719",
+    "stageId": "padron-santiago",
+    "name": "Taberna A Cabana",
+    "kind": "restaurant",
+    "lat": 42.7910963,
+    "lon": -8.6464185
+  },
+  {
+    "osmId": "osm-node-9769101722",
+    "stageId": "padron-santiago",
+    "name": "\"O\" Camiño",
+    "kind": "restaurant",
+    "lat": 42.8419797,
+    "lon": -8.5812532
+  },
+  {
+    "osmId": "osm-node-9809665317",
+    "stageId": "padron-santiago",
+    "name": "Vilar",
+    "kind": "restaurant",
+    "lat": 42.8780427,
+    "lon": -8.5449996
+  },
+  {
+    "osmId": "osm-node-9920942123",
+    "stageId": "pontevedra-caldas",
+    "name": "Camiño",
+    "kind": "restaurant",
+    "lat": 42.4288607,
+    "lon": -8.6423933
+  },
+  {
+    "osmId": "osm-node-9922502677",
+    "stageId": "padron-santiago",
+    "name": "Ok Wok",
+    "kind": "restaurant",
+    "lat": 42.8777831,
+    "lon": -8.5454368
+  },
+  {
+    "osmId": "osm-node-9937766320",
+    "stageId": "pontevedra-caldas",
+    "name": "Gumer",
+    "kind": "restaurant",
+    "lat": 42.4322577,
+    "lon": -8.6486605
+  },
+  {
+    "osmId": "osm-node-9944581878",
+    "stageId": "pontevedra-caldas",
+    "name": "El Viajero del Norte",
+    "kind": "restaurant",
+    "lat": 42.4327787,
+    "lon": -8.6463633
+  },
+  {
+    "osmId": "osm-node-9977336932",
+    "stageId": "padron-santiago",
+    "name": "Buen Camino",
+    "kind": "restaurant",
+    "lat": 42.7845353,
+    "lon": -8.6500746
+  },
+  {
+    "osmId": "osm-node-10055427557",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Las Vegas",
+    "kind": "restaurant",
+    "lat": 42.8782796,
+    "lon": -8.5458556
+  },
+  {
+    "osmId": "osm-node-10061932000",
+    "stageId": "padron-santiago",
+    "name": "A Qué Vino",
+    "kind": "restaurant",
+    "lat": 42.8750554,
+    "lon": -8.5499558
+  },
+  {
+    "osmId": "osm-node-10061932001",
+    "stageId": "padron-santiago",
+    "name": "Pizzería Oasis",
+    "kind": "restaurant",
+    "lat": 42.8751604,
+    "lon": -8.5496449
+  },
+  {
+    "osmId": "osm-node-10280892454",
+    "stageId": "padron-santiago",
+    "name": "Nómada Dar",
+    "kind": "restaurant",
+    "lat": 42.8720155,
+    "lon": -8.5558034
+  },
+  {
+    "osmId": "osm-node-10280892457",
+    "stageId": "padron-santiago",
+    "name": "Altamira",
+    "kind": "restaurant",
+    "lat": 42.8720269,
+    "lon": -8.5549914
+  },
+  {
+    "osmId": "osm-node-10280978929",
+    "stageId": "padron-santiago",
+    "name": "Krystal",
+    "kind": "restaurant",
+    "lat": 42.8743198,
+    "lon": -8.549876
+  },
+  {
+    "osmId": "osm-node-10281300895",
+    "stageId": "padron-santiago",
+    "name": "La Planta",
+    "kind": "restaurant",
+    "lat": 42.8745189,
+    "lon": -8.5506599
+  },
+  {
+    "osmId": "osm-node-10281300904",
+    "stageId": "padron-santiago",
+    "name": "Yizi",
+    "kind": "restaurant",
+    "lat": 42.8735199,
+    "lon": -8.5524548
+  },
+  {
+    "osmId": "osm-node-10303469873",
+    "stageId": "padron-santiago",
+    "name": "KAYUen",
+    "kind": "restaurant",
+    "lat": 42.8754313,
+    "lon": -8.5474418
+  },
+  {
+    "osmId": "osm-node-10792659282",
+    "stageId": "pontevedra-caldas",
+    "name": "Mesón La Paloma Dos",
+    "kind": "restaurant",
+    "lat": 42.4286773,
+    "lon": -8.6453271
+  },
+  {
+    "osmId": "osm-node-10795813205",
+    "stageId": "pontevedra-caldas",
+    "name": "Sidrería Montañés",
+    "kind": "restaurant",
+    "lat": 42.4307128,
+    "lon": -8.6432823
+  },
+  {
+    "osmId": "osm-node-10821182098",
+    "stageId": "caldas-padron",
+    "name": "Buen Camino",
+    "kind": "restaurant",
+    "lat": 42.6944576,
+    "lon": -8.6381217
+  },
+  {
+    "osmId": "osm-node-10869312298",
+    "stageId": "padron-santiago",
+    "name": "Agranola",
+    "kind": "wine shop",
+    "lat": 42.8744387,
+    "lon": -8.5444287
+  },
+  {
+    "osmId": "osm-node-10911948005",
+    "stageId": "tui-oporrino",
+    "name": "Santa Columba",
+    "kind": "restaurant",
+    "lat": 42.0479802,
+    "lon": -8.6452224
+  },
+  {
+    "osmId": "osm-node-10957692315",
+    "stageId": "padron-santiago",
+    "name": "A Tasquiña do Iacobus",
+    "kind": "restaurant",
+    "lat": 42.8769322,
+    "lon": -8.5444017
+  },
+  {
+    "osmId": "osm-node-10996784644",
+    "stageId": "redondela-pontevedra",
+    "name": "O Tranquilo",
+    "kind": "restaurant",
+    "lat": 42.2955385,
+    "lon": -8.6129566
+  },
+  {
+    "osmId": "osm-node-11007889223",
+    "stageId": "redondela-pontevedra",
+    "name": "Casa Mucha",
+    "kind": "restaurant",
+    "lat": 42.2854437,
+    "lon": -8.6083131
+  },
+  {
+    "osmId": "osm-node-11055535134",
+    "stageId": "padron-santiago",
+    "name": "Kuromi Sushi",
+    "kind": "restaurant",
+    "lat": 42.8736579,
+    "lon": -8.5454717
+  },
+  {
+    "osmId": "osm-node-11083745717",
+    "stageId": "padron-santiago",
+    "name": "Sicilia in Bocca",
+    "kind": "restaurant",
+    "lat": 42.8741131,
+    "lon": -8.5522708
+  },
+  {
+    "osmId": "osm-node-11169096501",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Castelao",
+    "kind": "restaurant",
+    "lat": 42.8440265,
+    "lon": -8.5784452
+  },
+  {
+    "osmId": "osm-node-11226449537",
+    "stageId": "redondela-pontevedra",
+    "name": "Restaurante A Cova",
+    "kind": "restaurant",
+    "lat": 42.2862935,
+    "lon": -8.6095436
+  },
+  {
+    "osmId": "osm-node-11228843487",
+    "stageId": "pontevedra-caldas",
+    "name": "O Galo Dourado",
+    "kind": "restaurant",
+    "lat": 42.4597158,
+    "lon": -8.6408855
+  },
+  {
+    "osmId": "osm-node-11347096495",
+    "stageId": "redondela-pontevedra",
+    "name": "Arcadia",
+    "kind": "restaurant",
+    "lat": 42.3421649,
+    "lon": -8.6099933
+  },
+  {
+    "osmId": "osm-node-11366033069",
+    "stageId": "padron-santiago",
+    "name": "Santoro Pizzería",
+    "kind": "restaurant",
+    "lat": 42.8705269,
+    "lon": -8.5530504
+  },
+  {
+    "osmId": "osm-node-11410705478",
+    "stageId": "padron-santiago",
+    "name": "Milongas",
+    "kind": "restaurant",
+    "lat": 42.841651,
+    "lon": -8.5790814
+  },
+  {
+    "osmId": "osm-node-11420846948",
+    "stageId": "padron-santiago",
+    "name": "Vide, Vide",
+    "kind": "wine shop",
+    "lat": 42.8772041,
+    "lon": -8.5431595
+  },
+  {
+    "osmId": "osm-node-11421644365",
+    "stageId": "padron-santiago",
+    "name": "Milongas",
+    "kind": "restaurant",
+    "lat": 42.8756579,
+    "lon": -8.5502649
+  },
+  {
+    "osmId": "osm-node-11423289144",
+    "stageId": "padron-santiago",
+    "name": "La Terraza",
+    "kind": "restaurant",
+    "lat": 42.8760643,
+    "lon": -8.545324
+  },
+  {
+    "osmId": "osm-node-11426000779",
+    "stageId": "padron-santiago",
+    "name": "La Bodeguilla de Santa Marta",
+    "kind": "restaurant",
+    "lat": 42.867713,
+    "lon": -8.5604845
+  },
+  {
+    "osmId": "osm-node-11426709213",
+    "stageId": "padron-santiago",
+    "name": "Sou Sushi",
+    "kind": "restaurant",
+    "lat": 42.8758416,
+    "lon": -8.5496218
+  },
+  {
+    "osmId": "osm-node-11472439157",
+    "stageId": "pontevedra-caldas",
+    "name": "La Espuela",
+    "kind": "restaurant",
+    "lat": 42.4319754,
+    "lon": -8.643975
+  },
+  {
+    "osmId": "osm-node-11472439161",
+    "stageId": "pontevedra-caldas",
+    "name": "Casa Duran",
+    "kind": "restaurant",
+    "lat": 42.4284385,
+    "lon": -8.6412535
+  },
+  {
+    "osmId": "osm-node-11503788615",
+    "stageId": "pontevedra-caldas",
+    "name": "Furancho a Seca",
+    "kind": "restaurant",
+    "lat": 42.5540504,
+    "lon": -8.6385422
+  },
+  {
+    "osmId": "osm-node-11611503046",
+    "stageId": "tui-oporrino",
+    "name": "La de Manu",
+    "kind": "restaurant",
+    "lat": 42.0492548,
+    "lon": -8.6431968
+  },
+  {
+    "osmId": "osm-node-11635118362",
+    "stageId": "padron-santiago",
+    "name": "La Codorniz",
+    "kind": "restaurant",
+    "lat": 42.8742561,
+    "lon": -8.5473748
+  },
+  {
+    "osmId": "osm-node-11635267569",
+    "stageId": "padron-santiago",
+    "name": "Osaka Atlántico",
+    "kind": "restaurant",
+    "lat": 42.873337,
+    "lon": -8.5475209
+  },
+  {
+    "osmId": "osm-node-11679009303",
+    "stageId": "padron-santiago",
+    "name": "A Poda",
+    "kind": "restaurant",
+    "lat": 42.8778027,
+    "lon": -8.5461645
+  },
+  {
+    "osmId": "osm-node-11727177277",
+    "stageId": "pontevedra-caldas",
+    "name": "A Cañota",
+    "kind": "restaurant",
+    "lat": 42.4736323,
+    "lon": -8.651585
+  },
+  {
+    "osmId": "osm-node-11748594058",
+    "stageId": "redondela-pontevedra",
+    "name": "DeCalle street food con xeito",
+    "kind": "restaurant",
+    "lat": 42.2813445,
+    "lon": -8.6101504
+  },
+  {
+    "osmId": "osm-node-11886243161",
+    "stageId": "redondela-pontevedra",
+    "name": "Papagaio Bistró",
+    "kind": "restaurant",
+    "lat": 42.28143,
+    "lon": -8.6090089
+  },
+  {
+    "osmId": "osm-node-11963290612",
+    "stageId": "padron-santiago",
+    "name": "Liam",
+    "kind": "restaurant",
+    "lat": 42.8761041,
+    "lon": -8.5464086
+  },
+  {
+    "osmId": "osm-node-11983701229",
+    "stageId": "padron-santiago",
+    "name": "Sabroso",
+    "kind": "restaurant",
+    "lat": 42.8751796,
+    "lon": -8.5492245
+  },
+  {
+    "osmId": "osm-node-11999052608",
+    "stageId": "redondela-pontevedra",
+    "name": "A Tasca",
+    "kind": "restaurant",
+    "lat": 42.3022144,
+    "lon": -8.6104088
+  },
+  {
+    "osmId": "osm-node-12001140252",
+    "stageId": "caldas-padron",
+    "name": "O Loureiro",
+    "kind": "restaurant",
+    "lat": 42.6051815,
+    "lon": -8.6424982
+  },
+  {
+    "osmId": "osm-node-12032061440",
+    "stageId": "redondela-pontevedra",
+    "name": "RootBark EtnoBrunch",
+    "kind": "restaurant",
+    "lat": 42.2815361,
+    "lon": -8.6090652
+  },
+  {
+    "osmId": "osm-node-12032082063",
+    "stageId": "redondela-pontevedra",
+    "name": "Pizzaría Bos Aires",
+    "kind": "restaurant",
+    "lat": 42.2861878,
+    "lon": -8.6094357
+  },
+  {
+    "osmId": "osm-node-12032983032",
+    "stageId": "padron-santiago",
+    "name": "A Charca",
+    "kind": "restaurant",
+    "lat": 42.8781484,
+    "lon": -8.5454226
+  },
+  {
+    "osmId": "osm-node-12032992977",
+    "stageId": "padron-santiago",
+    "name": "A Noiesa",
+    "kind": "restaurant",
+    "lat": 42.8779636,
+    "lon": -8.5455021
+  },
+  {
+    "osmId": "osm-node-12092370037",
+    "stageId": "caldas-padron",
+    "name": "La Margarita",
+    "kind": "restaurant",
+    "lat": 42.6061574,
+    "lon": -8.6451854
+  },
+  {
+    "osmId": "osm-node-12099501217",
+    "stageId": "redondela-pontevedra",
+    "name": "Ponte Verde",
+    "kind": "restaurant",
+    "lat": 42.4233397,
+    "lon": -8.6369519
+  },
+  {
+    "osmId": "osm-node-12100680401",
+    "stageId": "pontevedra-caldas",
+    "name": "Rincón Peregrino",
+    "kind": "restaurant",
+    "lat": 42.4274286,
+    "lon": -8.6401129
+  },
+  {
+    "osmId": "osm-node-12142993104",
+    "stageId": "redondela-pontevedra",
+    "name": "Quedamos!",
+    "kind": "restaurant",
+    "lat": 42.3418394,
+    "lon": -8.6103279
+  },
+  {
+    "osmId": "osm-node-12143000302",
+    "stageId": "redondela-pontevedra",
+    "name": "Recuncho de Cris",
+    "kind": "restaurant",
+    "lat": 42.342694,
+    "lon": -8.6068542
+  },
+  {
+    "osmId": "osm-node-12143018002",
+    "stageId": "redondela-pontevedra",
+    "name": "O Mesón",
+    "kind": "restaurant",
+    "lat": 42.3488708,
+    "lon": -8.6073122
+  },
+  {
+    "osmId": "osm-node-12143998807",
+    "stageId": "redondela-pontevedra",
+    "name": "No Camiño",
+    "kind": "restaurant",
+    "lat": 42.419942,
+    "lon": -8.6366813
+  },
+  {
+    "osmId": "osm-node-12144151966",
+    "stageId": "pontevedra-caldas",
+    "name": "Il Piccolo",
+    "kind": "restaurant",
+    "lat": 42.4281343,
+    "lon": -8.6409952
+  },
+  {
+    "osmId": "osm-node-12146536001",
+    "stageId": "caldas-padron",
+    "name": "A Senda",
+    "kind": "restaurant",
+    "lat": 42.5996425,
+    "lon": -8.643089
+  },
+  {
+    "osmId": "osm-node-12146583201",
+    "stageId": "caldas-padron",
+    "name": "O Muíño",
+    "kind": "restaurant",
+    "lat": 42.6032305,
+    "lon": -8.6421067
+  },
+  {
+    "osmId": "osm-node-12147682205",
+    "stageId": "caldas-padron",
+    "name": "San Miguel",
+    "kind": "restaurant",
+    "lat": 42.696036,
+    "lon": -8.6387174
+  },
+  {
+    "osmId": "osm-node-12147697723",
+    "stageId": "padron-santiago",
+    "name": "Pulpería M. Mata",
+    "kind": "restaurant",
+    "lat": 42.7350433,
+    "lon": -8.6614518
+  },
+  {
+    "osmId": "osm-node-12149661407",
+    "stageId": "padron-santiago",
+    "name": "Roxan",
+    "kind": "restaurant",
+    "lat": 42.870353,
+    "lon": -8.5579405
+  },
+  {
+    "osmId": "osm-node-12531436101",
+    "stageId": "pontevedra-caldas",
+    "name": "La Hormiga",
+    "kind": "restaurant",
+    "lat": 42.4344016,
+    "lon": -8.6472348
+  },
+  {
+    "osmId": "osm-node-12540016252",
+    "stageId": "redondela-pontevedra",
+    "name": "Pizzería Carlos",
+    "kind": "restaurant",
+    "lat": 42.4266592,
+    "lon": -8.6386665
+  },
+  {
+    "osmId": "osm-node-12540016253",
+    "stageId": "pontevedra-caldas",
+    "name": "Cre-Cottê",
+    "kind": "restaurant",
+    "lat": 42.4335395,
+    "lon": -8.6450881
+  },
+  {
+    "osmId": "osm-node-12540016261",
+    "stageId": "pontevedra-caldas",
+    "name": "Momu Facka",
+    "kind": "restaurant",
+    "lat": 42.4321828,
+    "lon": -8.6472838
+  },
+  {
+    "osmId": "osm-node-12540016268",
+    "stageId": "pontevedra-caldas",
+    "name": "feitizo mediterraneo",
+    "kind": "restaurant",
+    "lat": 42.4322631,
+    "lon": -8.6423499
+  },
+  {
+    "osmId": "osm-node-12540016273",
+    "stageId": "pontevedra-caldas",
+    "name": "Nonna Clara",
+    "kind": "restaurant",
+    "lat": 42.4323582,
+    "lon": -8.6394895
+  },
+  {
+    "osmId": "osm-node-12540016274",
+    "stageId": "pontevedra-caldas",
+    "name": "Marroquillos",
+    "kind": "restaurant",
+    "lat": 42.4323606,
+    "lon": -8.6392
+  },
+  {
+    "osmId": "osm-node-12540016275",
+    "stageId": "pontevedra-caldas",
+    "name": "Sibuya Urban Sushi Bar",
+    "kind": "restaurant",
+    "lat": 42.4310862,
+    "lon": -8.6454905
+  },
+  {
+    "osmId": "osm-node-12540016281",
+    "stageId": "pontevedra-caldas",
+    "name": "Faster Meals",
+    "kind": "restaurant",
+    "lat": 42.4326374,
+    "lon": -8.6415395
+  },
+  {
+    "osmId": "osm-node-12565559236",
+    "stageId": "pontevedra-caldas",
+    "name": "Tábula Rasa",
+    "kind": "restaurant",
+    "lat": 42.4314138,
+    "lon": -8.646512
+  },
+  {
+    "osmId": "osm-node-12699349587",
+    "stageId": "padron-santiago",
+    "name": "Restaurante Grilo",
+    "kind": "restaurant",
+    "lat": 42.7433865,
+    "lon": -8.6568391
+  },
+  {
+    "osmId": "osm-node-12700531870",
+    "stageId": "padron-santiago",
+    "name": "Restaurante O Secreto",
+    "kind": "restaurant",
+    "lat": 42.7391553,
+    "lon": -8.6581737
+  },
+  {
+    "osmId": "osm-node-12749935041",
+    "stageId": "padron-santiago",
+    "name": "Asador O Carmelo",
+    "kind": "restaurant",
+    "lat": 42.8240424,
+    "lon": -8.6090503
+  },
+  {
+    "osmId": "osm-node-12816907385",
+    "stageId": "pontevedra-caldas",
+    "name": "La Fonda",
+    "kind": "restaurant",
+    "lat": 42.4335326,
+    "lon": -8.6454903
+  },
+  {
+    "osmId": "osm-node-12854961985",
+    "stageId": "padron-santiago",
+    "name": "China Ming",
+    "kind": "restaurant",
+    "lat": 42.8714038,
+    "lon": -8.5506661
+  },
+  {
+    "osmId": "osm-node-12871469701",
+    "stageId": "caldas-padron",
+    "name": "O Encontro",
+    "kind": "restaurant",
+    "lat": 42.6046867,
+    "lon": -8.6452435
+  },
+  {
+    "osmId": "osm-node-12871952213",
+    "stageId": "redondela-pontevedra",
+    "name": "A Casa de Pedra",
+    "kind": "restaurant",
+    "lat": 42.4183441,
+    "lon": -8.634189
+  },
+  {
+    "osmId": "osm-node-12871952219",
+    "stageId": "redondela-pontevedra",
+    "name": "Casa BereBeres",
+    "kind": "restaurant",
+    "lat": 42.4177754,
+    "lon": -8.6337119
+  },
+  {
+    "osmId": "osm-node-12969150447",
+    "stageId": "redondela-pontevedra",
+    "name": "Casa Consejo",
+    "kind": "restaurant",
+    "lat": 42.2824436,
+    "lon": -8.6083983
+  },
+  {
+    "osmId": "osm-node-13066551801",
+    "stageId": "caldas-padron",
+    "name": "Diferente",
+    "kind": "wine shop",
+    "lat": 42.6053908,
+    "lon": -8.6447184
+  },
+  {
+    "osmId": "osm-node-13103510774",
+    "stageId": "padron-santiago",
+    "name": "Etéreo",
+    "kind": "restaurant",
+    "lat": 42.8770463,
+    "lon": -8.545441
+  },
+  {
+    "osmId": "osm-node-13140575048",
+    "stageId": "pontevedra-caldas",
+    "name": "Asador Virgen del Camino",
+    "kind": "restaurant",
+    "lat": 42.4275788,
+    "lon": -8.6399446
+  },
+  {
+    "osmId": "osm-node-13151619350",
+    "stageId": "padron-santiago",
+    "name": "Korean BBQ Fafa",
+    "kind": "restaurant",
+    "lat": 42.8734148,
+    "lon": -8.5506696
+  },
+  {
+    "osmId": "osm-node-13151619352",
+    "stageId": "padron-santiago",
+    "name": "Bresca",
+    "kind": "restaurant",
+    "lat": 42.8736283,
+    "lon": -8.550503
+  },
+  {
+    "osmId": "osm-node-13155108789",
+    "stageId": "padron-santiago",
+    "name": "Gran Ramen",
+    "kind": "restaurant",
+    "lat": 42.8735559,
+    "lon": -8.5513702
+  },
+  {
+    "osmId": "osm-node-13155152534",
+    "stageId": "padron-santiago",
+    "name": "Sumptuos",
+    "kind": "wine shop",
+    "lat": 42.8722502,
+    "lon": -8.5514334
+  },
+  {
+    "osmId": "osm-node-13155189822",
+    "stageId": "padron-santiago",
+    "name": "Le Coq",
+    "kind": "restaurant",
+    "lat": 42.8712699,
+    "lon": -8.5500516
+  },
+  {
+    "osmId": "osm-node-13161110141",
+    "stageId": "padron-santiago",
+    "name": "Pulpería",
+    "kind": "restaurant",
+    "lat": 42.7350485,
+    "lon": -8.6611033
+  },
+  {
+    "osmId": "osm-node-13161110142",
+    "stageId": "padron-santiago",
+    "name": "Pulpería",
+    "kind": "restaurant",
+    "lat": 42.7350461,
+    "lon": -8.6612757
+  },
+  {
+    "osmId": "osm-node-13208373318",
+    "stageId": "caldas-padron",
+    "name": "Parrillada El Criollo",
+    "kind": "restaurant",
+    "lat": 42.6787874,
+    "lon": -8.6407216
+  },
+  {
+    "osmId": "osm-node-13264657275",
+    "stageId": "padron-santiago",
+    "name": "Sakura",
+    "kind": "restaurant",
+    "lat": 42.8719961,
+    "lon": -8.5487552
+  },
+  {
+    "osmId": "osm-node-13295378047",
+    "stageId": "padron-santiago",
+    "name": "Hoy No Cozino",
+    "kind": "restaurant",
+    "lat": 42.8745103,
+    "lon": -8.5524196
+  },
+  {
+    "osmId": "osm-node-13430563467",
+    "stageId": "pontevedra-caldas",
+    "name": "Rianxo",
+    "kind": "restaurant",
+    "lat": 42.4327543,
+    "lon": -8.6433109
+  },
+  {
+    "osmId": "osm-node-13462464241",
+    "stageId": "caldas-padron",
+    "name": "Mesón Bermaña",
+    "kind": "restaurant",
+    "lat": 42.6050456,
+    "lon": -8.6453448
+  },
+  {
+    "osmId": "osm-node-13713671495",
+    "stageId": "padron-santiago",
+    "name": "S91 Sushi",
+    "kind": "restaurant",
+    "lat": 42.8722172,
+    "lon": -8.5504427
+  },
+  {
+    "osmId": "osm-node-13795695893",
+    "stageId": "padron-santiago",
+    "name": "Mi Bodegón Latino",
+    "kind": "restaurant",
+    "lat": 42.8740854,
+    "lon": -8.5511791
+  },
+  {
+    "osmId": "osm-node-13910095601",
+    "stageId": "tui-oporrino",
+    "name": "Tapería Época",
+    "kind": "restaurant",
+    "lat": 42.0499139,
+    "lon": -8.6432619
+  },
+  {
+    "osmId": "osm-node-13949465784",
+    "stageId": "padron-santiago",
+    "name": "O Piorno",
+    "kind": "restaurant",
+    "lat": 42.8782803,
+    "lon": -8.5453349
+  },
+  {
+    "osmId": "osm-node-13960949403",
+    "stageId": "caldas-padron",
+    "name": "Caminito",
+    "kind": "restaurant",
+    "lat": 42.6045426,
+    "lon": -8.6414788
+  },
+  {
+    "osmId": "osm-node-13964500173",
+    "stageId": "padron-santiago",
+    "name": "El Rincón de David",
+    "kind": "restaurant",
+    "lat": 42.8735599,
+    "lon": -8.5475622
+  },
+  {
+    "osmId": "osm-node-13972142212",
+    "stageId": "tui-oporrino",
+    "name": "Arte Pizza",
+    "kind": "restaurant",
+    "lat": 42.0469042,
+    "lon": -8.6450863
+  },
+  {
+    "osmId": "osm-node-13987666807",
+    "stageId": "tui-oporrino",
+    "name": "4 elementos",
+    "kind": "restaurant",
+    "lat": 42.0492681,
+    "lon": -8.6420171
+  },
+  {
+    "osmId": "osm-node-13994937498",
+    "stageId": "padron-santiago",
+    "name": "Maina",
+    "kind": "restaurant",
+    "lat": 42.8712521,
+    "lon": -8.5528107
+  },
+  {
+    "osmId": "osm-node-13994974359",
+    "stageId": "padron-santiago",
+    "name": "El Quemao",
+    "kind": "restaurant",
+    "lat": 42.8707871,
+    "lon": -8.5529582
+  }
+]

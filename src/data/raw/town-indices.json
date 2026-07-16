@@ -1,0 +1,33 @@
+{
+  "results": {
+    "Tui": {
+      "index": 3469,
+      "distKm": 0.1717923883496243
+    },
+    "O Porriño": {
+      "index": 3919,
+      "distKm": 0.2716669694968331
+    },
+    "Redondela": {
+      "index": 4849,
+      "distKm": 0.08811786329214401
+    },
+    "Pontevedra": {
+      "index": 6572,
+      "distKm": 0.011034771193384389
+    },
+    "Caldas de Reis": {
+      "index": 7742,
+      "distKm": 0.007773025092924335
+    },
+    "Padrón": {
+      "index": 9176,
+      "distKm": 0.18475179494169153
+    },
+    "Santiago": {
+      "index": 10929,
+      "distKm": 0.08010360574482535
+    }
+  },
+  "totalPoints": 10932
+}
